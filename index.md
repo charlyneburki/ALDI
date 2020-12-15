@@ -6,9 +6,8 @@ Indexes are usually employed to compare countries to one another, allowing organ
 
 ## Introducing ... ALDI !
 
-```markdown
 Here, we propose a new and improved index to rank, not countries, but local regions in the Greater London Area, in England. More particularly, we look at [Wards](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom) and Boroughs which are structural localities specific to England. 
-```
+
 Our ALDI is special because ... it includes the following measures:
 
 ```markdown
@@ -23,8 +22,9 @@ Our ALDI is special because ... it includes the following measures:
 9. Life Satisfaction
 10. Safety
 11. Work-Life Balance
-12. **Foods** 
+12. Foods 
 ```
+
 
 
 You can use the [editor on GitHub](https://github.com/charlyneburki/ALDI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
